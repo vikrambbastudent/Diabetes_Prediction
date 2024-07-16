@@ -34,6 +34,7 @@
 - Enable healthcare professionals and patients to input data and receive predictions.
 
 **Benefits**
+
 -Early Detection: Facilitates early intervention and management of diabetes.
 
 - Cost-Effective: Reduces the need for extensive medical tests and doctor visits.
